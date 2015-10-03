@@ -5,7 +5,7 @@ create table webcams (
     title varchar(100),
     url varchar(255),
     primary key(id)
-) engine = InnoDB;
+) engine = InnoDB charset=utf-8;
 
 create table status (
     webcam_id int,

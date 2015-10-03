@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8
 # http://lexikon.astronomie.info/zeitgleichung/
-import math, pytz, time, re
+import math, pytz, time, re, urllib2, socket
+timeout = 5
+socket.setdefaulttimeout(timeout)
 from math import *
 from datetime import time as dtime
 from datetime import datetime
@@ -76,6 +78,16 @@ def interactiveMode():
         except e:
             print e
 
+def getHttpStatus(url):
+    print "fetching url: %s" % url
+    try:
+        response = urllib2.urlopen(url)
+        code = response.getcode()
+        response.close()
+    except:
+        code = 999 
+    return code
+
 def dbMode():
     errordata = []
     updata = []
@@ -92,15 +104,19 @@ def dbMode():
         timezone = tz.tzNameAt(float(result["lat"]), float(result["lon"]))
         if timezone != None:
             sunrise, sunset = lookupCoordinates(float(result["lat"]), float(result["lon"]))
-            updata.append((result['id'], sunrise, sunset, "OK"))
+            returncode = getHttpStatus(result["url"])
+            if returncode == 200:
+                updata.append((result['id'], sunrise, sunset, "200", "OK"))
+            else:
+                updata.append((result['id'], sunrise, sunset, str(returncode), "HTTP ERROR"))
         else:
             print "!! INVALID TIMEZONE !!"
-            updata.append((result['id'], None, None, "invalid timezone"))
+            updata.append((result['id'], None, None, None, "invalid timezone"))
             errordata.append(result)
         print "------------------------"
 
     for data in updata:
-        sql = "REPLACE INTO status (webcam_id, sunrise, sunset, comment) values (%s, %s, %s, %s)"
+        sql = "REPLACE INTO status (webcam_id, sunrise, sunset, http_status, comment) values (%s, %s, %s, %s, %s)"
         cursor.execute(sql, data)
     connection.commit()
 
