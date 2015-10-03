@@ -1,20 +1,70 @@
 #!/usr/bin/env python
+# -*- encoding: utf-8
 # http://lexikon.astronomie.info/zeitgleichung/
-import math
+import math, pytz, time, re
 from math import *
-arccos = math.acos
-lon = math.radians(13.5)
-lat = math.radians(52.5)
+from datetime import time as dtime
+from datetime import datetime
+import sys
+sys.path.append("pytzwhere")
+from tzwhere import tzwhere
+tz = tzwhere.tzwhere(shapely=True, forceTZ=True)
 sunriseAngle = math.radians(-50/60)
-day = 30
-dekl= 0.4095 * math.sin(0.016906*(day - 80.086))
+day = datetime.now().timetuple().tm_yday
 
-print "latPolar: %f - deklination: %f - sunriseAngle: %f" % (lat, dekl, sunriseAngle)
+def coordinatesToDecimal(strCoordinates):
+    a, b = map (lambda x : re.findall('\d+|N|W|S|O', x), strCoordinates.split(','))
+    lat = dmsToDD(a[0], a[1], 0, a[2].strip())
+    lon = dmsToDD(b[0], b[1], 0, b[2].strip())
+    print "Lat: %f - Long: %f" % (lat, lon)
+    return lat, lon
 
-timeDifference = 12 * arccos((sin(sunriseAngle) - sin(lat)*sin(dekl)) / (cos(lat)*cos(dekl)))/math.pi
-sunrise = 12 - timeDifference
-sunset  = 12 + timeDifference
+def dmsToDD(d, m = 0, s = 0, h = 'N'):
+    if h in ('N', 'O'): 
+        sign = +1
+    else:
+        sign = -1 
+    return (float(d) + (float(m)/60) + (float(s)/3600))*sign
 
-print "timeDifference: %f" % timeDifference
-print "Sunrise: %f" % sunrise
-print "Sunset:  %f" % sunset 
+def getTimeDifference(ilat):
+    lat = math.radians(ilat)
+    dekl= 0.4095 * math.sin(0.016906*(day - 80.086))
+    return 12 * acos((sin(sunriseAngle) - sin(lat)*sin(dekl)) / (cos(lat)*cos(dekl)))/math.pi
+
+def adjust(time, lon):
+    return time - lon/15
+
+def getSunrise(lat, lon, timezone):
+    return adjust(12 - getTimeDifference(lat), lon)
+
+def getSunset(lat, lon, timezone):
+    return adjust(12 + getTimeDifference(lat), lon)
+
+def toClockTime(itime):
+    if (itime < 0):
+        itime = itime + 24
+    hours = int(itime)
+    minutes = (itime - hours) * 60
+    return dtime(int(hours), int(minutes)).strftime('%H:%M')
+
+def getLocalTime(stime, timezone):
+    tz = pytz.timezone(timezone)
+    target = tz.utcoffset(datetime.now(), timezone)
+    pd = datetime(*time.strptime(stime, '%H:%M')[:6])
+    targettime = pd + target
+    return time.strftime('%H:%M', targettime.timetuple()) 
+
+
+while True:
+    try:
+        lat, lon = coordinatesToDecimal(raw_input("Coordinates>"))
+        timezone = tz.tzNameAt(lat, lon)
+        print "timeDifference: %f" % getTimeDifference(lat)
+        print "Sunrise: %s (%f) UTC" % (toClockTime(getSunrise(lat, lon, timezone)), getSunrise(lat, lon, timezone))
+        print "Sunset:  %s (%f) UTC" % (toClockTime(getSunset(lat, lon, timezone)), getSunset(lat, lon, timezone))
+        print "Sunrise: %s LOC" % getLocalTime(toClockTime(getSunrise(lat, lon, timezone)), timezone)
+        print "Sunset:  %s LOC" % getLocalTime(toClockTime(getSunset(lat, lon, timezone)), timezone)
+        print "Timezone: %s" % timezone
+        print "----------------------------"
+    except e:
+        print e
