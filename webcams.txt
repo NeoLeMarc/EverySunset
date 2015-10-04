@@ -1,0 +1,697 @@
+
+50,-56 " 50,-56 Nordamerika, St. Pierre und Miquelon, Miquelon-Langlade,  Miquelon" 
+http://70.36.0.116/axis-cgi/mjpg/video.cgi?resolution=640x360&dummy=garb
+50,-57 "50,-57 Nordamerika, Kanada, Newfoundland and Labrador, Red Bay"
+http://www.roads.gov.nl.ca/cameras/sites/chateaupond/current.jpg
+50,-58 "50,-58 Nordamerika, Kanada, Newfoundland and Labrador, Cartwright" 
+http://www.roads.gov.nl.ca/cameras/sites/cartwrightjunction/current.jpg
+50,-59 "50,-59 Nordamerika, Kanada, Newfoundland and Labrador, Crooks Lake Lodge"
+http://www.roads.gov.nl.ca/cameras/sites/crookslane/current.jpg
+50,-60 "50,-60 Nordamerika, Kanada, Nova Scotia, Salmon River"
+http://www.capebretonliving.com/webshotw.jpg?1347284495891
+50,-61 "50,-61 Nordamerika, Kanada, Nova Scotia, Grantville"
+http://www.capebretonliving.com/webshotw.jpg
+50,-62 "50,-62 Nordamerika, Kanada, Nova Scotia, Mount Thom"
+http://www.gov.ns.ca/tran/webcam/secure/images/rwis_cam/Mt%20Thom_1.jpg
+50,-63 "50,-63 Nordamerika, Kanada, Nova Scotia, East Mines Station"
+http://live.novascotiawebcams.com/masstown2/current.jpg?1347284048950
+50,-64 "50,-64 Nordamerika, Kanada, Prince Edward Island, Elmsdale"
+http://www.gov.pe.ca/roadCameras/roadCamera/content/WI_1347283801.jpg
+50,-65 "50,-65 Nordamerika, Kanada, Nova Scotia, Kinsmans Corner"
+http://live.novascotiawebcams.com/hallsharbour/current.jpg?1347283844154
+50,-66 " 50,-66 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,-67 "50,-67 Nordamerika, Kanada, Quebec, Matane"
+http://montcastor.axiscam.net:9000/mjpg/video.mjpg
+50,-68 "50,-68 Nordamerika, Kanada, Quebec, Pointe-au-Père "
+http://www.enfeu.ca/webcamshmp/webcam.jpg
+50,-69 "50,-69 Nordamerika, USA, Maine, Madawaska"
+http://www.fourseasonstrail.org/webcam/camera1.jpg?1347283311789
+50,-70 "50,-70 Nordamerika, USA ,Maine, Norcross"
+http://www.neoc.com/webcam/camera1.jpg?1347283413283
+50,-71 "50,-71 Nordamerika, Kanada, Quebec, Saint-Gédéon"
+http://216.113.117.232/axis-cgi/jpg/image.cgi?resolution=800x450&compression=50&clock=1&date=1&dummy=1347282236202
+50,-72 "50,-72  Nordamerika, Kanada, Quebec,  Saint-Benoît-du-Lac"
+http://www.memphremagog.info/webcam.jpg
+50,-73 
+http://www.everysunset.de/nowebcam.jpg
+50,-74 
+http://www.everysunset.de/nowebcam.jpg
+50,-75 "50,-75 Nordamerika, Kanada, Ontario, Ottawa"
+http://www.parliamenthill.gc.ca/text/newhillcam.jpg
+50,-76 
+http://www.everysunset.de/nowebcam.jpg
+50,-77 
+http://www.everysunset.de/nowebcam.jpg
+50,-78 
+http://www.everysunset.de/nowebcam.jpg
+50,-79 "50,-79 Nordamerika, Kanada, Ontario, Rosseau"
+http://www.hamerbaymarine.com/ispy2.jpg
+50,-80
+http://www.everysunset.de/nowebcam.jpg
+50,-81 "50,-81 Nordamerika, Kanada, Ontario, Greater Sudbury"
+http://216.223.107.140/mjpg/video.mjpg
+50,-85 "50,-85 Nordamerika, USA, Michigan,  Nomad"
+http://powershardware.com/axis/img.jpg
+50,-86 
+http://www.everysunset.de/nowebcam.jpg
+50,-87 "50,-87 Nordamerika, USA,  Michigan > Copper Harbor"
+http://www.aviewfromthefield.com/camera/kabcam.jpg
+50,-88 "50,-88 Nordamerika, USA, Michigan, Houghton"
+http://www.pasty.com/bcam2.jpg?091347280403
+50,-89 "50,-89 Nordamerika, USA, Michigan, Houghton"
+http://www.pasty.com/~hotonco/webcam.jpg?091347280267
+50,-90 "50,-90 Nordamerika, USA, Minnesota, Duluth"
+http://www.solglimt.com/webcam/netcam.jpg
+50,-91 "50,-91 Nordamerika, USA, Minnesota"
+http://www.wdio.com/wdioimages/wx/harborcam.jpg
+50,-92 "50,-92 Nordamerika, USA, Minnesota"
+http://novembergales.org/webcam.jpg?number=1
+50,-93 "50,-93 Nordamerika, USA, Minnesota, Isle"
+http://mnlakecams.com/full_screen.html
+50,-94 
+http://www.everysunset.de/nowebcam.jpg
+50,-95
+http://www.everysunset.de/nowebcam.jpg
+50,-96 "50,-96 Nordamerika, USA, North Dakota, Prairie Rose
+http://ftpcontent.worldnow.com/kvly/KVLY/weather/skycams/cams/92_01_Time/wx01cam01.jpg
+50,-97 
+http://www.everysunset.de/nowebcam.jpg
+50,-98 "50,-98 Nordamerika > USA > South Dakota > Corsica (43,-98)
+http://corsicasd.com/images/pix_0002.jpg
+50,-99 
+http://www.everysunset.de/nowebcam.jpg
+50,-100
+http://www.everysunset.de/nowebcam.jpg
+50,-101
+http://www.everysunset.de/nowebcam.jpg
+50,-102 "50,-102 Nordamerika, Kanada, Manitoba, Gimli"
+http://www.nihm.ca/webcam_gimli.html
+50,-103 "50,-103 Nordamerika, Kanada, Saskatchewan, Carrot River" 
+http://www.mcintyre-network.com/mcink/cam_1.jpg
+50,-104 "50,-104 Nordamerika, Kanada, Saskatchewan, Regin"
+http://users.accesscomm.ca/saskweather/webcam/webcam32.jpg
+50,-105
+http://www.everysunset.de/nowebcam.jpg
+50,-106 "50,-106 Nordamerika, Kanada, Saskatchewan, Saskatoon"
+http://webcam.usask.ca/cgi-bin/getcam.cgi?camera=tom
+50,-107
+http://www.everysunset.de/nowebcam.jpg
+50,-108
+http://www.everysunset.de/nowebcam.jpg
+50,-109
+http://www.everysunset.de/nowebcam.jpg
+50,-110
+http://www.everysunset.de/nowebcam.jpg
+50,-111
+http://www.everysunset.de/nowebcam.jpg
+50,-112 "50,-112 Nordamerika, Kanada, Alberta, Norfolk"
+http://www.ama.ab.ca/road_report/camera/camera_images/1-10_1.jpg
+50,-113 "50,-113 Nordamerika, Kanada, Alberta, Calgary"
+http://70.75.14.119:8080/webcam.html
+50,-114 "50,-114 Nordamerika, Kanada, Alberta, Canmore"
+http://webcams.canmorealberta.com/irongoat/webcam_threesisters.jpg
+50,-115 "50,-115 Nordamerika, Kanada, Alberta, Banff"
+http://banffwebcams.explorerockies.com/webcam2.jpg
+50,-116 "50,-116 Nordamerika, Kanada, British Columbia, Montrose"
+http://webcam.netidea.com/wc-nelson1.jpg
+50,-117 "50,-117 Nordamerika, Kanada, British Columbia, Vernon"
+http://netcam.mjotours.com/highview/netcam.jpg
+50,-118 "50,-118 Nordamerika, Kanada, British Columbia, Celista"
+http://masconcable.ca/webcams/bastion.jpg
+50, -119 "50, -119 Nordamerika, Kanada, British Columbia, Shingle Creek"
+http://www.apexresort.com/webcam/tbar01.jpg
+50,-120 "50,-120 Nordamerika, Kanada, British Columbia, Lac Le Jeune"
+http://www.laclejeune.ca/ccam0.jpg
+50,-121 "50,-121 Nordamerika, Kanada, British Columbia, Logan Lake"
+/www.tunkwalakeresort.com/webcamphotos/TLR_Store_000.jpg
+50,-122 "50,-122 Nordamerika, USA, Washington, Blaine"
+http://icons.wunderground.com/webcamramdisk/p/t/ptlblaine/1/current.jpg?1347272861
+50,-123 "50,-123 Nordamerika, USA, Washington, Bellingham"
+http://www.bellcold.com/images/latest.jpg?1347274636415
+50,-124 "50,-124 Nordamerika, USA, Washington, Point Rober"
+http://prh.viewnetcam.com:10001/ImageViewer?Direction=&Resolution=640x480&Quality=Clarity&Size=STD&PresetOperation=Move&Data=0&Frame2=PanTilt&Type=&Language=0&RPeriod=3&Sound=Enable&Mode=JPEG&SendMethod=1&View=Normal
+50,-125
+http://www.everysunset.de/nowebcam.jpg
+50,-126 "50,-126 Nordamerika, Kanada, British Columbia, Nimpkish Heights"
+http://www.theartistspoint.com/webcam/activ/600.jpg
+50,-127
+http://www.everysunset.de/nowebcam.jpg
+50,-128 
+http://www.everysunset.de/nowebcam.jpg
+50,-129
+http://www.everysunset.de/nowebcam.jpg
+50,-130
+http://www.everysunset.de/nowebcam.jpg
+50,-131 
+http://www.everysunset.de/nowebcam.jpg
+50,-132
+http://www.everysunset.de/nowebcam.jpg
+50,-133
+http://www.everysunset.de/nowebcam.jpg
+50,-134
+http://www.everysunset.de/nowebcam.jpg
+50,-135
+http://www.everysunset.de/nowebcam.jpg
+50,-136
+http://www.everysunset.de/nowebcam.jpg
+50,-137
+http://www.everysunset.de/nowebcam.jpg
+50,-138
+http://www.everysunset.de/nowebcam.jpg
+50,-139
+http://www.everysunset.de/nowebcam.jpg
+50,-140
+http://www.everysunset.de/nowebcam.jpg
+50,-141
+http://www.everysunset.de/nowebcam.jpg
+50,-142
+http://www.everysunset.de/nowebcam.jpg
+50,-143
+http://www.everysunset.de/nowebcam.jpg
+50,-144
+http://www.everysunset.de/nowebcam.jpg
+50,-145
+http://www.everysunset.de/nowebcam.jpg
+50,-146
+http://www.everysunset.de/nowebcam.jpg
+50,-147
+http://www.everysunset.de/nowebcam.jpg
+60,-148 "60,-148 Nordamerika, USA, Alaska, Port San Juan" 
+http://www.micro-specialties.com/images/Chenega/netcam.jpg
+55,-149
+http://www.everysunset.de/nowebcam.jpg
+55,-150
+http://www.everysunset.de/nowebcam.jpg
+55,-151 "55,-153 Nordamerika, USA, Alaska, Larsen Bay"
+http://akweathercams.faa.gov/viewsitedetail.php
+55,-152 
+http://www.everysunset.de/nowebcam.jpg
+55,-153 "55,-153 Nordamerika, USA, Alaska" 
+http://akweathercams.faa.gov/wxdata/163-37199.jpg
+55, -154 
+http://www.everysunset.de/nowebcam.jpg
+55, -155 
+http://www.everysunset.de/nowebcam.jpg
+55,-156 
+http://www.everysunset.de/nowebcam.jpg
+55, 157 
+http://www.everysunset.de/nowebcam.jpg
+55,- 158
+http://www.everysunset.de/nowebcam.jpg
+55, -159
+http://www.everysunset.de/nowebcam.jpg
+55, -160
+http://www.everysunset.de/nowebcam.jpg
+55, -161
+http://www.everysunset.de/nowebcam.jpg
+55,-162 
+http://www.everysunset.de/nowebcam.jpg
+50,-163
+http://www.everysunset.de/nowebcam.jpg
+50,-164
+http://www.everysunset.de/nowebcam.jpg
+50,-165
+http://www.everysunset.de/nowebcam.jpg
+53,-166
+http://www.everysunset.de/nowebcam.jpg
+50,-167 
+http://www.everysunset.de/nowebcam.jpg
+50,-168
+http://www.everysunset.de/nowebcam.jpg
+57, -169 "57, -169 Nordamerika, USA, Alaska, Saint Pau
+http://akweathercams.faa.gov/wxdata/99-63548.jpg
+50,-170
+http://www.everysunset.de/nowebcam.jpg
+50,-171
+http://www.everysunset.de/nowebcam.jpg
+50,-172
+http://www.everysunset.de/nowebcam.jpg
+50,-173 
+http://www.everysunset.de/nowebcam.jpg
+50,-174 
+http://www.everysunset.de/nowebcam.jpg
+50,-175 "50,-175 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,-176 "50,-176 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,-177 "50,-177 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,-178 "50,-178 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,-179 "50,-179 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,-180 "50,-180 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,179 "50,179 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,178 "50,178  no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,177 "50,177  no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,176 "50,176 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,175 "50,175 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,174 "50,174 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,173 "50,173  no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,172 "50,172 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,171 "50,171 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,170 "50,170 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,169 "50,169 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,168 "50,168 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,167 "50,167 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,166 "50,166 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,165 "50,165 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,164 "50,164 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,163 "50,163 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,162 "50,162 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,161 "50,161 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+54, 160 "54, 160 Russland, Камчатская область, Жупаново"
+http://www.wwf.ru/upl_pics/webcamera/kronotsky/camera/pics/2012/Sep/06/pic-06Sep2012-14-49-58.main.jpg
+50, 159 "50, 159 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 158 "50, 158 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 157 "50, 157 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 156 "50, 156 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 155 "50, 155  no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 154 "50, 154 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 153 "50, 153 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 152 "50, 152 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 151 "50, 151 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 150 "50, 150 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 149 "50, 149 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 148 "50, 148 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 147 "50, 147 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 146 "50, 146 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 145 "50, 145 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50, 144 "50, 144 Japan, ホッカイドウ,  Biruwagenya"
+http://biodic.poos.net/107_c/image/2012/09/10/NCS20120910180002000.jpg
+50, 143 "50, 143 Japan, ホッカイドウ, Esashi"
+http://www.stv.ne.jp/camera/esashi.jpg?19
+50, 142 "50, 142 Japan, ホッカイドウ, Shimo-sarobetsu" 
+http://www.sizenken.biodic.go.jp/system/camera_image/biodic/78_c/NCS.jpg
+50, 141 "50, 141 Japan, ホッカイドウ, Shiretoko"
+http://www.stv.ne.jp/camera/shiretoko_L.jpg?15
+50,140 "50,140 no webcam available"
+50, 139 "50, 139 Japan, ホッカイドウ, Setana"
+http://www.stv.ne.jp/camera/setana.jpg?12
+50,138 "50,138 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,137 "50,137 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,136 "50,136 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,135 "50,135 Russland, Хабаровский край, Chabarowsk"
+http://94.125.52.206:443/cam_1.jpg?uniq=0.48123164870776236
+50,126 "50,126 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,125 "50,125 no webcam available"
+http://115.84.164.162/08/08_20091201_15.jpg
+50,124 "50,124 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,123 "50,123 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,122 "50,122 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,121 "50,121 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,120 "50,120  no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,119 "50,119 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,118 "50,118 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,117 "50,117 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,116 "50,116 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,115 "50,115 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,114 "50,114 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,113 "50,113 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,112 "50,112 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,111 "50,111 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,110 "50,110 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,109 "50,109 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,108 "50,108 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,107 "50,107 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,106 "50,106 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,105 "50,105 no webcam available"
+http://195.206.36.50/axis-cgi/mjpg/video.cgi?resolution=480x360&text=0&dummy=1363711355716
+50,104 "50,104 Russland, Иркутская область, Irkutsk"
+http://www.weacom.ru/engine/ajax/cam_image.php?size=360&rand=8684
+50,103 "50,103 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,102 "50,102 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,101 "50,101 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,100 "50,100 Russland, Иркутская область, Тулун"
+http://web-tulun.ru/info/temp/cam/camcam.php
+50,99 "50,99 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,98 "50,98 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,97 "50,97 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,96 "50,96 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,95 "50,95 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,94 "50,94 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,93 "50,93 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,92 "50,92 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,91 "50,91 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,90 "50,90 no webcam available"
+http://www.achtng.ru/webcam/cam1.jpg?b262d37aad7e050c8135f65967f0db33
+50,89 "50,89 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,88 "50,88 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,87 "50,87 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,86 "50,86 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,85 "50,85 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,84 "50,84 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,83 "50,83 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,82 "50,82 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,81 "50,81 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,80 "50,80 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,79 "50,79 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,78 "50,78 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,77 "50,77 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,76 "50,76 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,75 "50,75 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,74 "50,74 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,73 "55,73 Russland, Омская область,
+http://www.everysunset.de/nowebcam.jpghttp://www.everysunset.de/nowebcam.jpg Omsk"
+http://abonent.omsk.skylink.ru/cam.jpg?0.6018838854506612
+50,72 "50,72 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,71 "50,71 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,70 "50,70 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,69 "50,69 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,68 "50,68 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,67 "50,67 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,66 "50,66 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,65 "50,65 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,64 "50,64 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,63 "50,63 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,62 "50,62 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,61 "55,61 Russland, Челябинская область, Градский"
+http://www.is74.ru/interactive_map/streets_online/img/SalavataUlaeva-Kashirinyh.jpg?refresh=
+50,60 "50,60 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,59 "50,59 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,58 "50,58 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,57 "50,57 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,56 "50,56 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,55  "50,55 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,54 "50,54 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,53 "50,53 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,52  "50,52 Kasachstan, Mangghystaū Oblysy, Aqtau"
+http://aqtau.kz/upload/images/camera/zopa.jpg?5152.401176567422)
+50,51"50,51 Kasachstan, Batys Qazaqstan Oblysy, Oral"
+http://uralsk.info/includes/myphp/webcamera2/00606E8B03D5(webcam2)_0_19700104154551_56312.jpg
+50,50 "50,50 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,49  "50,49 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,48 "50,48 Russland, Ульяновская область, Ulyanovsk"
+http://webcam.mv.ru/pic/VTcam-2.jpg
+50,47 "50,47 Russland, Саратовская область, Balakowo"
+http://cam.bal.ru/video.cgi?resolution=VGA&random=0.9291493052151054
+50,46 "50,46 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,45 "50,45  no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,44 "50,44 Russland, Волгоградская область,Wolgograd"
+http://www.volga-rast.ru/cam/suzuki-station/image.jpg?0.5600033092778176
+50,43 "50,43  no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,42 "50,42 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,41 "50,41 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,40 "50,40  Russland, Волгоградская область, Красный Октябрь"
+http://www.volga-rast.ru/cam/suzuki-station/image.jpg?0.5600033092778176
+50,39 "50,39 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,38 "50,38 Ukraine, Донецька область, Yenakiyeve"
+http://213.179.246.212/axis-cgi/mjpg/video.cgi?resolution=320x240&compression=10&dummy=1347263505330
+50,37 "50,37 Ukraine, Донецька область, Svyatogorsk"
+http://www.scs.com.ua/webcam/sgiaz1.jpg
+50,36 "50,36 no webcam available"
+http://www.everysunset.de/nowebcam.jpg
+50,35 "50,35 Ukraine, Oblast Sumy, Sumy"
+http://194.146.228.158:19983/videostream.cgi?user=java&pwd=java&resolution=8&dummy=1347262765989
+50,34 "50,34 no webcams available"
+http://www.everysunset.de/nowebcam.jpg
+50,33 "50,33 no webcams available"
+http://www.everysunset.de/nowebcam.jpg
+50,32 "50,32 Ukraine, Черкаська Область, Tscherkassy"
+http://82.207.68.254/axis-cgi/mjpg/video.cgi?resolution=320x240&dummy=1347220889687
+50,31 "50,31 Ukraine, Черкаська Область, Kaniv"
+http://teslakaniv.narod.ru/img1full.jpg
+50,30 "50,30 Ukraine, Oblast Kyiw, Boyarka"
+http://178.158.205.86/axis-cgi/mjpg/video.cgi?resolution=640x480&colorlevel=100&req_fps=30
+50,29 "50,29 Ukraine, Житомирська Область, Schytomyr"
+http://195.5.21.185/cgi-bin/mjpg/video.cgi?resolution=352x288&dummy=garb
+50,28 "50,28 Ukraine, Винныцька Область, Вінниця"
+http://vcf.vn.ua:8081/mjpg/video.mjpg
+50,27 "50,27  Ukraine, Хмельницька Область, Zarech’ye"
+http://cam.ic.km.ua/mjpg/video.mjpg
+50,26 "50,26 Ukraine, Рівненська область, Riwne"
+http://77.120.86.18/axis-cgi/jpg/image.cgi?resolution=CIF&dummy=1347114254804
+50,25 "50,25 Polen, Woiwodschaft Lublin, Włodawa"
+http://www.wlodawa.eu/kamera.php
+50,24 "50,24 Polen, Woiwodschaft Karpatenvorland, Jarosław"
+http://www.pogody.pl/stacje/poznan_m.jpg
+50,23 "50,23 Polen, Woiwodschaft Karpatenvorland, Zagrody"
+http://178.218.224.7/kam/10image2.jpg
+50,22 "50,22  Polen, Woiwodschaft Karpatenvorland, Rzeszów"
+http://www.radio.rzeszow.pl/kamera/wifi/webcam.jpg?1347112780958
+50,21 "50,21 Polen, Woiwodschaft Karpatenvorland, Brzostek"
+http://www.brzostek.eu/snap000M.jpg?1347112567319
+50,20 "50,20 Polen, Woiwodschaft Schlesien, Żywiec Stary"
+http://www.megasurf.pl/cam/Video01.jpg
+50,19 "50,19 Polen, Woiwodschaft Schlesien, Jejkowice"
+http://www.meteojejkowice.pl/images/kamera.jpg?1347111474468
+50,18 "50,18 Tschechien, Moravskoslezský Kraj, Kajlovec"
+http://opavskybezdrat.cz/novinky/webkam/kalvarie2mpx.php
+50,17 "50,17 Tschechien, Olomoucký, Kouty"
+http://kamera.rpsnet.cz/camera/kouty_vlek1000M.jpg
+50,16 "50,16 Tschechien, Pardubický Kraj, Pardubice"
+http://kamery.kve.cz/kamery/karlovina.jpg?1347032980400
+50,15 "50,15 Tschechien, Hlavní Mesto Praha, Dolní Počernice"
+http://vasit.cz:8888/image.cgi?#1347032572
+50,14 "50,14 Tschechien, Středočeský Kraj, Žebrák"
+http://www.saomedia.cz/images/kamera/a3-new.php
+50,13 "50,13 Tschechien, Karlovarský Kraj, Marienbad"
+http://www.tvml.cz/MarNe.jpg
+50,12 "50,12 Deutschland, Bayern, Schatzbach"
+http://muellerjm.selfhost.me/baucam.jpg?1347030611
+50,11 "50,11 Deutschland, Bayern, Unnersdorf"
+http://82.100.235.34/record/current.jpg?rand=435690
+50,10 "50,10 Deutschland, Bayern, Pfaffenhausen"
+http://www.preyer.net/webcam/bild.jpg
+50,9 "50,9 Deutschland, Bayern, Karlstein"
+http://freizeitgebiet.dyndns.org:83/image.jpg
+50,8 "50,8  Deutschland, Rheinland-Pfalz, Insgeheim"
+http://edv-du.de/webcam/Wetter.jpg?1347028112031
+50,7 "50,7 Deutschland, Rheinland-Pfalz, Bernkastel-Kues"
+http://mosel-cam.dyndns.org/axis-cgi/jpg/image.cgi?resolution=640x480
+50,6 "50,6  Luxemburg, Diekirch, Bourscheid"
+http://webcambsit.dyndns.org/record/current.jpg?rand=536278
+50,5 "50,5  Belgien, Vlaams Gewest, Löwen"
+http://icons.wunderground.com/webcamramdisk/j/i/JimmyVO/1/current.jpg
+50,4 "50,4 Belgien, Waals Gewest, Namur"
+http://users.skynet.be/fc004525/weerstationserskamp/cam.jpg
+50,3 "50,3 Frankreich, Picardie, Cayeux-sur-Me"
+http://webcam-cayeux.dyndns.org:8080/record/current.jpg?rand=747874
+50,2 "50,2 Frankreich, Haute-Normandie, Saint-Lége"
+http://www.vision-environnement.com/webcams/Saint_Valery_en_Caux3/image/webcam.jpg
+50,1 "50,1 Frankreich, Basse-Normandie, Cerisé "
+http://www.aeroclub-alencon.org/images/webcam/img-640.jpg?t=1347045770
+50,0  "50,0 no webcams available, Ärmelkanal"
+50,-1 "50,-1 no webcams available, Ärmelkanal"
+50,-2 "50,-2 Frankreich, Guernsey, Saint Peter Port"
+http://www.nest.gg/webcams/AurignyGCI.jpg?1347046924351
+50,-3 "50,-3 no webcams available"
+http://www.farsondigitalwatercams.com/tamar/current1.jpg?7706669
+50,-4 "50,-4 England, Sydenham Damerel"
+http://www.farsondigitalwatercams.com/tamar/current1.jpg?7706669
+50,-5 "50,-5 England, Mullio"
+http://www.seasidecottagescornwall.co.uk/trewoon_live.jpg?1347047512028
+50,-6 "50,-6 England, Saint Levan"
+http://www.minack.com/webcams/stagecam.jpg
+50,-7 "50,-7 England, Bryher"
+http://scillywebcam3.viewnetcam.com/SnapshotJPEG?Resolution=640x480&Quality=Clarity&Count=15637410
+51,-8 "51,-8 Irland, Munster, Summer Cove"
+http://www.kinsaleboathire.ie/media/webcam/webcam.jpg
+52,-9 "52,-9 Irland, Dromhale"
+http://www.lakehotelkillarney.com/webcam/killarney2.jpg  
+50,-10 "50,-10 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-11 "50,-11 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-12 "50,-12 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-13 "50,-13 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-14 "50,-14 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-15 "50,-15 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-16 "50,-16 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-17 "50,-17 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-18 "50,-18 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-19 "50,-19 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-20 "50,-20 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-21 "50,-21 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-22 "50,-22 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-23 "50,-23 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-24 "50,-24 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-25 "50,-25 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-26 "50,-26 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-27 "50,-27 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-28 "50,-28 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-29 "50,-29 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-30 "50,-30 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-31 "50,-31 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-32 "50,-32 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-33 "50,-33 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-34 "50,-34 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-35 "50,-35 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-36 "50,-36 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-37 "50,-37 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-38 "50,-38 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-39 "50,-39 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-40 "50,-40 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-41 "50,-41 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-42 "50,-42 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-43 "50,-43 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-44 "50,-44 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-45 "50,-45 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-46 "50,-46 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-47 "50,-47 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-48 "50,-48 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-49 "50,-49 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-50 "50,-50 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-51 "50,-51 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-52 "50,-52 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-53 "50,-53 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-54 "50,-54 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
+50,-55 "50,-55 no webcams available, Atlantic Ocean"
+http://www.everysunset.de/nowebcam.jpg
