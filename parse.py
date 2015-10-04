@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8
 import MySQLdb
-connection = MySQLdb.connect(host="localhost", user="root", db="everysunset")
+connection = MySQLdb.connect(host="localhost", user="everysunset", db="everysunset", passwd="Abendrot23")
 cursor = connection.cursor()
 
-f = open("/tmp/webcams.txt")
+f = open("webcams.txt")
 f.readline()
 line = f.readline()
 data = []

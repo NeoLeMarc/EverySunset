@@ -93,7 +93,7 @@ def dbMode():
     updata = []
     import MySQLdb
     import MySQLdb.cursors
-    connection = MySQLdb.connect(host='localhost', user='root', db='everysunset', cursorclass=MySQLdb.cursors.DictCursor)
+    connection = MySQLdb.connect(host='localhost', user='everysunset', db='everysunset', passwd="Abendrot23", cursorclass=MySQLdb.cursors.DictCursor)
     cursor = connection.cursor()
     cursor.execute("SELECT * FROM webcams")
     results = cursor.fetchall()
