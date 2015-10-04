@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8
-import MySQLdb
+import MySQLdb, re
 connection = MySQLdb.connect(host="localhost", user="everysunset", db="everysunset", passwd="Abendrot23")
 cursor = connection.cursor()
 
-f = open("webcams.txt")
+f = open("Liste1.txt")
 f.readline()
 line = f.readline()
 data = []
@@ -12,8 +12,8 @@ while line:
     if line.find(" ") > 0:
         if line.find(" \"") < 0:
             line = line.replace("\"", " \"", 1)
-        coordinates, title = line.split(" ", 1)
-        lat, lon = coordinates.split(",")
+        coordinates, title = line.split(" \"", 1)
+        lat, lon = re.split(",\s*", coordinates, 1)
         url = f.readline().strip()
         if url != 'http://www.everysunset.de/nowebcam.jpg' and lat != "" and lon != "":
             title = title.replace("\"", "")
@@ -22,7 +22,8 @@ while line:
             data.append((float(lat), float(lon), title, url))
         line = f.readline()
     else:
-        f.readline()
+        print "nothing found in line"
+        print line
         f.readline()
         line = f.readline()
 print data
@@ -34,4 +35,5 @@ for dataset in data:
     cursor.execute(query, dataset)
 
 connection.commit()
+#connection.rollback()
 connection.close()
