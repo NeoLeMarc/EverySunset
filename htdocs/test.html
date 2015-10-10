@@ -24,11 +24,12 @@ function init(position) {
             "<img src='" + json["webcams"][position]["url"] + "?foo=" + new Date().getTime() + "' height='400'/><br/>" +
         "TTS: " + json["webcams"][position]["tts"];
     }); 
-    interval = window.setInterval(function() { 
-        init(0);
-    }, 30000)
 }
 init(0);
+interval = window.setInterval(function() { 
+    init(0);
+}, 30000)
+
         </script>
     </head>
     <body>

@@ -5,7 +5,7 @@ create table webcams (
     title varchar(100),
     url varchar(255),
     primary key(id)
-) engine = InnoDB charset=utf-8;
+) engine = InnoDB charset=utf8;
 
 create table status (
     webcam_id int,
@@ -16,4 +16,4 @@ create table status (
     parsedate timestamp,
     foreign key(webcam_id) references webcams(id),
     primary key(webcam_id)
-) engine = InnoDB;
+) engine = InnoDB charset=utf8;
