@@ -4,7 +4,7 @@ import MySQLdb, re
 connection = MySQLdb.connect(host="localhost", user="everysunset", db="everysunset", passwd="Abendrot23")
 cursor = connection.cursor()
 
-f = open("Liste1.txt")
+f = open("Liste2.txt")
 f.readline()
 line = f.readline()
 data = []
@@ -12,6 +12,8 @@ while line:
     if line.find(" ") > 0:
         if line.find(" \"") < 0:
             line = line.replace("\"", " \"", 1)
+        print "Line:!!"
+        print line
         coordinates, title = line.split(" \"", 1)
         lat, lon = re.split(",\s*", coordinates, 1)
         url = f.readline().strip()
