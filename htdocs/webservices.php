@@ -9,6 +9,7 @@ header("Access-Control-Allow-Origin: *");
                      (addtime(timediff(sunset, time(now())), '24:00:00'))) as tts, time(now()) as curtime FROM status
         JOIN webcams ON webcams.id = status.webcam_id 
         WHERE http_status = 200
+        AND   active = 1
         ORDER BY tts 
         LIMIT 3 
     ";
