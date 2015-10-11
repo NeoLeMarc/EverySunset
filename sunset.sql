@@ -4,6 +4,7 @@ create table webcams (
     lat decimal(6,3),
     title varchar(100),
     url varchar(255),
+    active boolean not null default 1,
     primary key(id)
 ) engine = InnoDB charset=utf-8;
 
