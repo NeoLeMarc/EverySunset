@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <script type="text/javascript" language="javascript">
+function loadJSON(callback) {   
+
+    var xobj = new XMLHttpRequest();
+    xobj.overrideMimeType("application/json");
+    xobj.open('GET', 'https://www.essential-operations.com/everysunset/webservices.php', true); 
+    xobj.onreadystatechange = function () {
+        if (xobj.readyState == 4 && xobj.status == "200") {
+            // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+            callback(xobj.responseText);
+        }
+    };
+    xobj.send(null);  
+}
+var json;
+function init(position) {
+    loadJSON(function(response) {
+        // Parse JSON string into object
+        json = JSON.parse(response);
+        var webcam = document.getElementById("webcam");
+        webcam.innerHTML= "<h1>" + json["webcams"][position]["title"] + "</h1>" +
+            "<img src='" + json["webcams"][position]["url"] + "?foo=" + new Date().getTime() + "' height='400'/><br/>" +
+        "TTS: " + json["webcams"][position]["tts"];
+    }); 
+}
+init(0);
+interval = window.setInterval(function() { 
+    init(0);
+}, 30000)
+
+        </script>
+    </head>
+    <body>
+    <a href="javascript:init(0)">Webcam 0</a>
+    <a href="javascript:init(1)">Webcam 1</a>
+    <a href="javascript:init(2)">Webcam 2</a>
+
+    <div id="webcam" height="400"/>
+    </body>
+</html>

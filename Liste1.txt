@@ -1,0 +1,87 @@
+
+42.6289495, -78.7375289 "42.6289495, -78.7375289, Boston "
+http://images.ibsys.com/bos/images/weather/auto/citycam_320x240.jpg
+40.7143528, -74.0059731 "40.7143528, -74.0059731, NY"	
+http://wirednewyork.com/images/webcams/wired-new-york-webcam3.jpg	
+62.848213,-69.868755 "62.848213,-69.868755, Kimmirut"
+http://www.kimmirutweather.com/webcam.jpg
+-33.4166667, -70.55 "-33.4166667, -70.55, Santiago de Chile"	
+http://cam.whotelsantiagoview.com/w-santiago.jpg 
+16.863794, -99.881614 "16.863794, -99.881614, Acapulco, Mexiko "		
+http://webcamsdemexico.net/acapulco1/live.jpg?1318634717
+22.8905327, -109.9167371 "22.8905327, -109.9167371, Cabo San Lucas, Mexiko"
+http://webcamsdemexico.net/guanajuato1/live.jpg?1318634947
+32.955968, -105.744598 "32.955968, -105.744598, Cloudcroft, NM 88317, USA"
+http://cloudcroftwebcam.com/camera1.jpg?Sun%20Oct%2004%202015%2012:49:03%20GMT+0000%20(GMT) 
+37.0833537, -105.2672303 "37.0833537, -105.2672303, Colorado"
+http://www.kwmv.org.asp1-22.dfw1-2.websitetestlink.com/photos/Sangre-de-Cristo-Mountains.jpg 
+34.0522342, -118.2436849 "34.0522342, -118.2436849, Los Angeles"
+http://www.cableairport.com/cam2/cam2.jpg	
+37.502752, -122.475472 "37.502752, -122.475472, Half Moon Bay, CA 94019, USA"
+http://samcam.samschowderhouse.com:8334/axis-cgi/jpg/image.cgi?resolution=640x480&amp;color=1&amp;clock=1&amp;date=1&amp;dummy=1288455518739
+55.349087, -131.645620 "55.349087, -131.645620, Ketchikan, AK 99901, USA"
+http://webcam.kputel.com/cpnwebcam/current-mega.jpg
+64.8377778, -147.7163889 "64.8377778, -147.7163889, Fairbanks, Alaska" 
+http://209.165.153.2/axis-cgi/jpg/image.cgi?resolution=610x47004.15 
+64.099678, -155.540894 "64.099678, -155.540894, Poorman, Alsaka"
+http://www.worldincams.com/img/webcams/usa/usa-mcgrath-alaska-airport-ramp-mcgrath-current.jpg
+64.525419, -165.444355 "64.525419, -165.444355,Nome Census Area, Alaska, USA"	
+http://nomecvb.com/nomecam/nomecam.jpg
+59.796327, -154.142027 "59.796327, -154.142027, Pedro Bay, AK USA"	
+http://iliamna.com/webcam.jpg
+21.3069444, -157.8583333 "21.3069444, -157.8583333, Honlulu, Hawei" 
+http://live.waikikitimes.com/images/02PM.jpg	
+57.1807255, -170.2757384 "57.1807255, -170.2757384,Saint Paul, Alaska"
+http://www.abovekodiakair.com/webcams/lilylake/images/image0.jpg 
+-16.5004126, -151.7414904 "-16.5004126, -151.7414904, Bora Bora"
+http://www.spmhotels.com/images/webcam/boracam_CAM1.jpg
+-17.5388435, -149.8295234 "-17.5388435, -149.8295234, Moorea, Französisch Polynesien"
+http://www.spmhotels.com/images/webcam/mooreacam.jpg
+-36.863576, 174.738495 "-36.863576, 174.738495,  Grey Lynn, Auckland 1021, Neuseeland"
+http://greylynnweather.net/jpgwebcam.jpg
+-39.496282, 176.896876  "-39.496282, 176.896876, Marewa, Napier Neuseeland"					
+http://paulaxford.com/webcam/axis.jpg
+-33.873651, 151.2068896 "-33.873651, 151.2068896, Syndey, Australien"
+ http://webcams.bsch.com.au/bondi_beach/538x404.jpg?cache=0.06337953242473304
+-33.772616, 151.081151 "-33.772616, 151.081151, Epping NSW 2121, Australien"
+http://www.outreach.atnf.csiro.au/visiting/parkes/webcam/parkes_full.jpg
+13.507264, 120.932591 "13.507264, 120.932591, Philippinen Balateros Cove"
+http://www.mycam-asia.tv/cams/philippines/luzon/lalaguna_beach/current/current.jpg?1443968530545 
+22.396428, 114.109497 "22.396428, 114.109497, Hong Kong"
+http://www.hko.gov.hk/wxinfo/aws/hko_mica/hk2/latest_HK2.jpg
+22.396428, 114.109497 "22.396428, 114.109497, Hong Kong"
+http://www.hko.gov.hk/wxinfo/aws/hko_mica/cch/latest_CCH.jpg
+56.293428, 90.639890 "56.293428, 90.639890, Russland"
+http://www.achtng.ru/webcam/cam1.jpg?b262d37aad7e050c8135f65967f0db33
+5.550210, 73.466391 "5.550210, 73.466391, Naifaru, Kuredu Island"
+http://www.oceanwatersport.com/webcam/LiveImage.jpg?time=1443788504359
+65.083927, 35.638505 "65.083927, 35.638505, Solovetsky, Russland"
+http://www.solovky.ru/webcam.shtml
+-20.167976, 57.504396 "-20.167976, 57.504396, Port Louis, Mauritius"
+http://rochesnoires.dyndns.tv:8075/cgi-bin/viewer/video.jpg?streamid=1
+-20.301405, 57.600138 "-20.301405, 57.600138, Dubreuil, Mauritius"
+http://www.info-mauritius.com/weather-wetter/image-webcam-store-Image.php
+-4.618445, 55.450851 "-4.618445, 55.450851, Sychellen"
+http://www.virtualseychelles.sc/webcam/webcam3.html
+-13.253494, 48.185619 "-13.253494, 48.185619, Madagaska"
+http://andilanaresort.com/MOBOTIX/piscina.jpg?time=0.7481445374432951
+-3.503826, 38.364344 "-3.503826, 38.364344, Mwatate, Kenia"
+http://kenyawebcam.com/tsavocam/pic/upload.jpg
+78.695625, 15.094494 "78.695625, 15.094494, Svein Nordah, Svalbard"
+http://www.svein-nordahl.com/02-gruvedalen.jpg
+62.800112, 17.937202 "62.800112, 17.937202, Högakustenbron"
+http://hogakusten.mine.nu/axis-cgi/mjpg/video.cgi?resolution=640x480&dummy=1443792091992
+-22.575647, 17.078281 "-22.575647, 17.078281, Windhoek"
+http://weather.namsearch.com/windhoekwebcam.jpg?1443790826331
+48.159906, 11.425474 "48.159906, 11.425474, Guggenberg, München"
+http://4tm6hwetqd6wplex.myfritz.net/record/current.jpg?rand=890918
+50.052951, 8.238868 "50.052951, 8.238868, Mainz Bibrich"
+http://biebrich.fuhs.de/rheincam.jpg
+49.520478, 7.105412 "49.520478, 7.105412, Güdesweiler"
+http://www.guedesweiler-wetter.com/webcam/cam.jpg
+65.071149, -22.733888 "65.071149, -22.733888, Stykkishólmur, Island"
+http://www.stykk.is/capture1.jpg
+13.175424, -59.554790 "13.175424, -59.554790, Barbardos"
+ftp://ftp-projects.zmaw.de/acpc_barbados/Ragged-Point-Cam/current.jpg
+47.945533, -124.389562 "47.945533, -124.389562, Folks, Washington"
+http://webcam.forkswa.com/webcam2/netcam.jpg
