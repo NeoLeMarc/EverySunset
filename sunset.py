@@ -31,7 +31,11 @@ def dmsToDD(d, m = 0, s = 0, h = 'N'):
 def getTimeDifference(ilat):
     lat = math.radians(ilat)
     dekl= 0.4095 * math.sin(0.016906*(day - 80.086))
-    return 12 * acos((sin(sunriseAngle) - sin(lat)*sin(dekl)) / (cos(lat)*cos(dekl)))/math.pi
+    try:
+        return 12 * acos((sin(sunriseAngle) - sin(lat)*sin(dekl)) / (cos(lat)*cos(dekl)))/math.pi
+    except:
+        print "A math error occured here"
+        return 0
 
 def adjust(time, lon):
     return time - lon/15
