@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8
 # http://lexikon.astronomie.info/zeitgleichung/
-import math, pytz, time, re, urllib2, socket
+import math, pytz, time, re, urllib3, socket
 timeout = 5
 socket.setdefaulttimeout(timeout)
 from math import *
@@ -18,7 +18,7 @@ def coordinatesToDecimal(strCoordinates):
     a, b = map (lambda x : re.findall('\d+|N|W|S|O', x), strCoordinates.split(','))
     lat = dmsToDD(a[0], a[1], 0, a[2].strip())
     lon = dmsToDD(b[0], b[1], 0, b[2].strip())
-    print "Lat: %f - Long: %f" % (lat, lon)
+    print("Lat: %f - Long: %f" % (lat, lon))
     return lat, lon
 
 def dmsToDD(d, m = 0, s = 0, h = 'N'):
@@ -34,7 +34,7 @@ def getTimeDifference(ilat):
     try:
         return 12 * acos((sin(sunriseAngle) - sin(lat)*sin(dekl)) / (cos(lat)*cos(dekl)))/math.pi
     except:
-        print "A math error occured here"
+        print("A math error occured here")
         return 0
 
 def adjust(time, lon):
@@ -65,12 +65,12 @@ def getLocalTime(stime, timezone):
 
 def lookupCoordinates(lat, lon):
      timezone = tz.tzNameAt(lat, lon)
-     print "Timezone: %s" % timezone
-     print "timeDifference: %f" % getTimeDifference(lat)
-     print "Sunrise: %s (%f) UTC" % (toClockTime(getSunrise(lat, lon, timezone)), getSunrise(lat, lon, timezone))
-     print "Sunset:  %s (%f) UTC" % (toClockTime(getSunset(lat, lon, timezone)), getSunset(lat, lon, timezone))
-     print "Sunrise: %s LOC" % getLocalTime(toClockTime(getSunrise(lat, lon, timezone)), timezone)
-     print "Sunset:  %s LOC" % getLocalTime(toClockTime(getSunset(lat, lon, timezone)), timezone)
+     print( "Timezone: %s" % timezone)
+     print( "timeDifference: %f" % getTimeDifference(lat))
+     print( "Sunrise: %s (%f) UTC" % (toClockTime(getSunrise(lat, lon, timezone)), getSunrise(lat, lon, timezone)))
+     print( "Sunset:  %s (%f) UTC" % (toClockTime(getSunset(lat, lon, timezone)), getSunset(lat, lon, timezone)))
+     print( "Sunrise: %s LOC" % getLocalTime(toClockTime(getSunrise(lat, lon, timezone)), timezone))
+     print( "Sunset:  %s LOC" % getLocalTime(toClockTime(getSunset(lat, lon, timezone)), timezone))
      return toClockTime(getSunrise(lat, lon, timezone)), toClockTime(getSunset(lat, lon, timezone))
  
 def interactiveMode():
@@ -78,14 +78,14 @@ def interactiveMode():
         try:
             lat, lon = coordinatesToDecimal(raw_input("Coordinates>"))
             lookupCoordinates(lat, lon)
-            print "----------------------------"
+            print("----------------------------")
         except e:
-            print e
+            print(e)
 
 def getHttpStatus(url):
-    print "fetching url: %s" % url
+    print("fetching url: %s" % url)
     try:
-        response = urllib2.urlopen(url)
+        response = urllib3.urlopen(url)
         code = response.getcode()
         response.close()
     except:
@@ -103,8 +103,8 @@ def dbMode():
     results = cursor.fetchall()
 
     for result in results:
-        print "Title: %s" % result["title"]
-        print "URL: %s" % result["url"]
+        print("Title: %s" % result["title"])
+        print("URL: %s" % result["url"])
         timezone = tz.tzNameAt(float(result["lat"]), float(result["lon"]))
         if timezone != None:
             sunrise, sunset = lookupCoordinates(float(result["lat"]), float(result["lon"]))
@@ -114,10 +114,10 @@ def dbMode():
             else:
                 updata.append((result['id'], sunrise, sunset, str(returncode), "HTTP ERROR"))
         else:
-            print "!! INVALID TIMEZONE !!"
+            print("!! INVALID TIMEZONE !!")
             updata.append((result['id'], None, None, None, "invalid timezone"))
             errordata.append(result)
-        print "------------------------"
+        print("------------------------")
 
     for data in updata:
         sql = "REPLACE INTO status (webcam_id, sunrise, sunset, http_status, comment) values (%s, %s, %s, %s, %s)"
